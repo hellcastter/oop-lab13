@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.task1;
+package ua.ucu.edu.apps.first;
 
 import java.time.LocalDateTime;
 

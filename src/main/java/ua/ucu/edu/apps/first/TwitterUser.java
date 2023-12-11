@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.task1;
+package ua.ucu.edu.apps.first;
 
 import lombok.Data;
 import lombok.ToString;

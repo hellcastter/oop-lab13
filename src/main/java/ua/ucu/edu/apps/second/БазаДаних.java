@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.task2;
+package ua.ucu.edu.apps.second;
 
 public class БазаДаних {
     public String отриматиДаніКористувача() {

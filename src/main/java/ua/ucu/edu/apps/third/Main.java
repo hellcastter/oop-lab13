@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.task3;
+package ua.ucu.edu.apps.third;
 
 import lombok.SneakyThrows;
 
